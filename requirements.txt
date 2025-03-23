@@ -1,0 +1,12 @@
+
+numpy
+opencv-python-headless
+opencv-python
+pygame
+streamlit
+torch
+twilio
+ultralytics
+pandas
+pyttsx3
+requests
